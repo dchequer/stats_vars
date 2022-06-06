@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 setup.cfg
+src/StatsVars/StatsTest.py
 src/StatsVars/StatsVars.py
 src/StatsVars/__init__.py
 src/StatsVars.egg-info/PKG-INFO
